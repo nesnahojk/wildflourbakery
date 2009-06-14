@@ -1,0 +1,6 @@
+a:link{color:#3ca9c8; text-decoration:none;}
+a:visited{color:#3ca9c8; text-decoration:none;}
+a:hover{color:#000000; text-decoration:underline;}
+body,tr,td {font-size: 9pt; font-family:verdana; text-align:justify; color:#000000}
+.border {border: #000000; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.sideborder {border: #3a0182; border-style: solid; border-top-width: 0px; border-right-width: 5px; border-bottom-width: 0px; border-left-width: 5px}
